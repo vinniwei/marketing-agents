@@ -3,9 +3,6 @@
 .env.local
 .env*.local
 
-# MCP configuration (may contain sensitive project-specific settings)
-.mcp.json
-
 # Claude Code
 .claude/
 claude.md
