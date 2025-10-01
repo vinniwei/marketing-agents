@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ahrefs__site-explorer-organic-keywords"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

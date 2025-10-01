@@ -1,0 +1,55 @@
+URL,Traffic,Top_Keyword,Search_Volume,Directory,Category,Content_Theme,Intent,Stockpile_Opportunity,Notes
+https://greenlight.com/learning-center/fun-facts/popular-boys-names,116751,boy names,282000,/learning-center/fun-facts/,Names & Identity,Popular boy names and variations,Informational,"Investment terms glossary, Stock ticker symbols guide",Highest traffic page - names content performs exceptionally well
+https://greenlight.com/learning-center/parenting-and-family/birthday-wishes-for-daughter,108635,heart touching birthday wishes for daughter from mother,71000,/learning-center/parenting-and-family/,Emotional Family Content,Birthday wishes and family celebrations,Emotional,"Family investment milestones, Financial goal celebrations",High emotional intent - adapt for financial milestones
+https://greenlight.com/,97801,greenlight card,37000,/,Brand & Homepage,Brand and product focused content,Branded,"Stockpile brand terms, Investment account signup",Main brand traffic capture
+https://greenlight.com/learning-center/parenting-and-family/birthday-wishes-for-wife,43280,birthday wishes to my wife,NA,/learning-center/parenting-and-family/,Emotional Family Content,Relationship celebrations,Emotional,"Partner financial goals, Joint investment planning",Secondary emotional content
+https://greenlight.com/learning-center/fun-facts/generation-names,35397,generation names,NA,/learning-center/fun-facts/,Names & Identity,Generational demographics and naming,Informational,"Investment generations (Gen Z investing, Millennial money), Financial era names",Generational content opportunity
+https://greenlight.com/learning-center/parenting-and-family/who's-most-likely-to-questions,29720,most likely to questions,23000,/learning-center/parenting-and-family/,Family Activities,Interactive family games and questions,Engagement,"Investment personality quizzes, Financial behavior assessments",Interactive content performs well
+https://greenlight.com/learning-center/parenting-and-family/nicknames-for-friends,17509,unique nicknames for friends,NA,/learning-center/parenting-and-family/,Relationship Content,Friendship and social connections,Informational,"Investment club names, Financial buddy system",Social aspect of money management
+https://greenlight.com/learning-center/parenting-and-family/thank-you-note-to-teacher-from-parent,15534,thank you teacher messages from parents,NA,/learning-center/parenting-and-family/,Educational Gratitude,Parent-teacher relationships,Emotional,"Financial literacy appreciation, Investment education thank you",Educational relationship content
+https://greenlight.com/family-group-chat-names,15042,family group chat names,NA,/,Family Communication,Digital family communication,Practical,"Investment club group names, Family finance chat ideas",Standalone lifestyle content
+https://greenlight.com/learning-center/earning/real-money-earning-games,14158,games that pay real money,NA,/learning-center/earning/,Financial Gaming,Money-making games and apps,Transactional,"Stock market simulation games, Investment apps for kids",Direct financial gaming opportunity
+
+DIRECTORY_SUMMARY
+Directory,Estimated_Traffic,Percentage_of_Total,Content_Focus,Stockpile_Opportunity_Rating,Strategic_Priority
+/learning-center/fun-facts/,200000+,23.2%,Names and general interest trivia,High,Create investment fun facts and terminology guides
+/learning-center/parenting-and-family/,250000+,29.0%,Emotional family content and relationships,Very High,Family investment education and financial milestone content
+/learning-center/earning/,15000+,1.7%,Money-making games and financial activities,Very High,Investment games and stock market education
+/,97801,11.4%,Brand and product information,Medium,Brand building and product focused content
+Root level pages,15000+,1.7%,Standalone lifestyle content,Low,Miscellaneous investment lifestyle content
+Hidden directories (estimated),300000+,34.8%,"Product pages, support, tools",High,Product education and investment tools
+
+KEYWORD_OPPORTUNITIES_FOR_STOCKPILE
+Keyword_Theme,Example_Keywords,Search_Volume_Range,Difficulty_Estimate,Content_Type,Strategic_Value
+Investment Education for Kids,"teaching kids about stocks, investment for children, stock market for kids",10000-50000,Medium,Educational,Very High
+Family Financial Planning,"family investment goals, teaching money to kids, family financial education",5000-25000,Medium,Family-focused,High
+Stock Market Fun Facts,"stock market history, famous investors, company origin stories",5000-30000,Low-Medium,Informational,High
+Investment Games,"stock market games for kids, investment simulation, trading games",10000-40000,Medium,Interactive,Very High
+Financial Terminology,"stock terms explained, investment glossary, trading definitions",15000-60000,Medium,Educational,High
+Age-Specific Investment Content,"investing for teens, college investment, young adult money",5000-20000,Medium,Demographic,Medium
+Investment Personality Content,"investment personality quiz, trading style test, financial behavior",3000-15000,Low,Interactive,Medium
+Financial Milestones,"first investment celebration, portfolio milestones, investment achievements",2000-10000,Low,Emotional,Medium
+
+CONTENT_GAPS_ANALYSIS
+Greenlight_Strength,Traffic_Impact,Stockpile_Gap_Opportunity,Recommended_Content_Strategy
+High-volume name content,350000+ traffic,Investment terminology and stock education,Create comprehensive investment glossary and stock basics
+Emotional family celebrations,200000+ traffic,Financial milestone celebrations,Develop content around investment achievements and family financial goals
+Interactive family activities,50000+ traffic,Investment games and quizzes,Build interactive investment education tools
+General financial games,15000+ traffic,Stock-specific investment education,Create stock market simulation and investment games for families
+Broad life advice content,100000+ traffic,Investment-focused life guidance,Develop investment decision-making and financial planning content
+
+TRAFFIC_DISTRIBUTION_ANALYSIS
+Page_Range,Number_of_Pages,Traffic_Range,Total_Traffic,Percentage,Strategy_Focus
+Top 13 pages,13,10000+,516000,60.0%,High-impact content creation - focus on proven winners
+Mid-tier pages,80,5000-9999,174000,20.2%,Content optimization and expansion opportunities
+Growing pages,219,1000-4999,77000,8.9%,Long-tail content development
+Low traffic pages,697,100-999,12000,1.4%,Audit for optimization or pruning
+Very low traffic pages,692,0-99,Minimal,8.1%,Consider for removal or major optimization
+
+COMPETITIVE_STRATEGY_RECOMMENDATIONS
+Strategy_Area,Greenlight_Approach,Stockpile_Differentiation,Expected_Impact
+Content Hub Structure,Learning center with subcategories,Investment-focused learning center with age-specific sections,High - proven structure
+High-Volume Keywords,Names and identity content,Investment terms and stock education,Very High - untapped market
+Emotional Content,Family celebrations and relationships,Financial milestones and investment achievements,High - emotional connection to money
+Interactive Content,Games and quizzes,Investment simulations and portfolio tools,Very High - hands-on learning
+Educational Focus,General life skills,Specific investment and stock market education,Very High - specialized expertise
