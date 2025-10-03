@@ -55,6 +55,13 @@ Create the most comprehensive, helpful, and authoritative content for target key
 ### STEP 2: KEYWORD & AUDIENCE ANALYSIS (Multi-Layer Problem Discovery)
 **Objective**: Understand the deep, underlying problems behind the search intent
 
+**🎯 THINK HARDER - First-Principles Approach:**
+Before jumping to conclusions, challenge yourself:
+- "What is the user REALLY trying to achieve?" (Not just what they're searching for)
+- "Is my first answer the surface problem or the root cause?"
+- "If I had to explain this to someone with no context, what's the fundamental need?"
+- "What would the perfect solution look like? Work backwards from there."
+
 **Actions**:
 - [ ] Analyze search intent type:
   - Informational (learning/understanding)
@@ -62,11 +69,15 @@ Create the most comprehensive, helpful, and authoritative content for target key
   - Navigational (finding specific page)
   - Commercial (researching before purchase)
 
-- [ ] Map audience problem layers:
+- [ ] Map audience problem layers (challenge each layer):
   - **Layer 1 (Surface)**: What they're explicitly searching for
+    - *Think harder: Is this what they're really looking for, or just how they phrased it?*
   - **Layer 2 (Deeper motivation)**: Why they need this information
+    - *Think harder: What's the emotional or practical driver beneath the surface query?*
   - **Layer 3 (Underlying need)**: The real problem they're solving
+    - *Think harder: What problem, if solved, would make this search unnecessary?*
   - **Layer 4 (Desired outcome)**: What success looks like
+    - *Think harder: What does "problem completely solved" look like? Be specific.*
 
 - [ ] Identify user journey stage:
   - Awareness (just discovering problem)
@@ -82,11 +93,18 @@ Create the most comprehensive, helpful, and authoritative content for target key
 KEYWORD: {PRIMARY_KEYWORD}
 SEARCH INTENT: [Type]
 
-AUDIENCE PROBLEM ANALYSIS:
+AUDIENCE PROBLEM ANALYSIS (First-Principles Validated):
 - Surface Level: [What they're searching for]
+  Challenge: [Did we question if this is just how they phrased it?]
+
 - Deeper Motivation: [Why they need this]
+  Challenge: [What emotional/practical driver did we uncover?]
+
 - Underlying Need: [Real problem to solve]
-- Desired Outcome: [What success looks like]
+  Challenge: [What's the root cause, not just symptom?]
+
+- Desired Outcome: [What success looks like - be specific]
+  Challenge: [What would "perfectly solved" look like?]
 
 USER JOURNEY STAGE: [Stage]
 SUCCESS METRICS: [How we measure value]
@@ -95,17 +113,116 @@ VALUE DELIVERY STRATEGY:
 - Key insight 1: [How we'll deliver value]
 - Key insight 2: [Unique angle]
 - Key insight 3: [Differentiation]
+
+VALIDATION QUESTIONS (Answer these to ensure depth):
+- [ ] Have we gone beyond the obvious answer?
+- [ ] Would this problem analysis surprise someone in our industry?
+- [ ] Can we clearly articulate WHY each layer leads to the next?
+- [ ] Is the desired outcome specific enough to design content around?
 ```
 
 **✋ CHECKPOINT**: Validate audience analysis with user
 
 ---
 
-### STEP 3: AHREFS DATA COLLECTION
-**Objective**: Gather comprehensive keyword and competitive data
+### STEP 2.5: PROBLEM VALIDATION (Using Top-Ranking Content)
+**Objective**: Validate and refine our problem hypothesis by analyzing what Google ranks at the top
+
+**🎯 KEY ASSUMPTION:** Google ranks content that best solves user problems at the top. Therefore, top-ranking pages reveal what problems users actually need solved.
+
+**🎯 CONTEXT TO BRING FORWARD:**
+- Primary keyword: {PRIMARY_KEYWORD}
+- Initial problem hypothesis from Step 2: [4-layer problem analysis]
 
 **Actions**:
-- [ ] Use Ahrefs MCP to collect:
+- [ ] Use Ahrefs MCP to find top 3 ranking pages for {PRIMARY_KEYWORD} in {TARGET_COUNTRY}
+- [ ] Use Web Search to find top 5 ranking pages for {PRIMARY_KEYWORD} in {TARGET_COUNTRY}
+- [ ] For each top-ranking page, quickly assess:
+  - What problem is this page trying to solve?
+  - What does the title, structure, and content reveal about user needs?
+  - Does this confirm or challenge our Step 2 hypothesis?
+
+**🎯 THINK HARDER - Problem Validation:**
+- "What problems are ALL top pages addressing?" (Common thread = validated problem)
+- "What problems are SOME pages addressing?" (Potential gaps or adjacent needs)
+- "What does the way they solve it tell us about what users expect?"
+- "Did we miss anything important in our Step 2 analysis?"
+
+**Output**:
+```
+PROBLEM VALIDATION ANALYSIS
+
+INITIAL HYPOTHESIS (From Step 2):
+- Layer 1 (Surface): [Original]
+- Layer 2 (Deeper): [Original]
+- Layer 3 (Underlying): [Original]
+- Layer 4 (Desired Outcome): [Original]
+
+TOP-RANKING PAGES ANALYZED:
+
+Ahrefs Top 3:
+1. [URL] - [Main problem they address]
+2. [URL] - [Main problem they address]
+3. [URL] - [Main problem they address]
+
+Web Search Top 5:
+1. [URL] - [Main problem they address]
+2. [URL] - [Main problem they address]
+3. [URL] - [Main problem they address]
+4. [URL] - [Main problem they address]
+5. [URL] - [Main problem they address]
+
+PROBLEM VALIDATION FINDINGS:
+
+What ALL top pages address (CONFIRMED PROBLEMS):
+- Problem A: [What everyone solves - this validates our hypothesis]
+- Problem B: [Another universal problem]
+- Evidence: [Why we know this is the core problem]
+
+What SOME pages address (ADJACENT PROBLEMS):
+- Additional problem 1: [Some competitors address this]
+- Additional problem 2: [Opportunity we might pursue]
+
+What NO pages address well (GAPS):
+- Missing element 1: [Everyone misses this]
+- Missing element 2: [Opportunity for us]
+
+REFINED PROBLEM UNDERSTANDING:
+
+✅ VALIDATED (Keep from Step 2):
+- Layer 1 (Surface): [Confirmed understanding]
+- Layer 2 (Deeper): [Confirmed understanding]
+
+🔄 REFINED (Updated based on top content):
+- Layer 3 (Underlying): [Updated understanding with evidence]
+- Layer 4 (Desired Outcome): [Updated with what top content reveals]
+
+NEW INSIGHTS:
+- Insight 1: [What top-ranking content revealed that we missed]
+- Insight 2: [How we should adjust our approach]
+- Insight 3: [Additional angles to consider]
+
+CONFIDENCE LEVEL: [High/Medium/Low]
+- Are we confident this is the right problem to solve? [Yes/No + reasoning]
+- Do we need to revisit Step 2? [Yes/No + why]
+```
+
+**✋ CHECKPOINT**: Review refined problem understanding before competitive analysis
+
+---
+
+### STEP 3: AHREFS COMPETITIVE ANALYSIS (Top 3)
+**Objective**: Analyze what top 3 Ahrefs competitors do WELL and POORLY in solving the validated problem
+
+**🎯 CONTEXT TO BRING FORWARD:**
+- Primary keyword: {PRIMARY_KEYWORD}
+- Validated problem understanding: [From Step 2.5]
+- Goal: Understand how to solve this problem BETTER than current top-ranking content
+
+**Actions**:
+
+**Part A: Collect Keyword & SEO Data**
+- [ ] Use Ahrefs MCP to collect keyword metrics:
   - Keyword Difficulty (KD)
   - Global Search Volume
   - {TARGET_COUNTRY} Search Volume
@@ -115,242 +232,481 @@ VALUE DELIVERY STRATEGY:
   - Parent topic (if applicable)
   - Related keywords (high relevance, decent volume)
 
-- [ ] Analyze the data:
-  - Difficulty vs opportunity assessment
-  - Commercial intent signals (CPC)
-  - Content scope (parent topic analysis)
-  - Keyword cluster opportunities
+**Part B: Analyze Top 3 Ranking Pages**
+- [ ] Use Ahrefs MCP to find top 3 ranking pages for {PRIMARY_KEYWORD}
+- [ ] For each competitor, collect:
+  - URL and current position
+  - Domain Rating (DR), URL Rating (UR)
+  - Referring domains, backlinks
+  - Organic traffic estimate
+  - Top 5 keywords this page ranks for
+  - Content freshness (publish/update dates)
+
+**Part C: Deep Content Analysis (What They Do Well & Poorly)**
+
+For each of the top 3 competitors:
+
+**🎯 THINK HARDER - Solution Analysis:**
+- "HOW are they solving the validated problem?" (Their approach)
+- "WHY does this solution work?" (First-principles - what makes it effective?)
+- "What do they do WELL that we should learn from?" (Strengths to adopt)
+- "What do they do POORLY or miss?" (Gaps we can exploit)
+- "How can we apply their successful principles MORE deeply?" (Go 2-3 layers deeper)
+
+- [ ] Analyze each competitor's:
+  - **Content Structure**: Title, H2s, organization, word count
+  - **Solution Approach**: How they address the validated problem
+  - **Value Delivery**: What makes their solution effective/ineffective
+  - **Visual Elements**: Charts, images, infographics, tables
+  - **Depth vs Breadth**: Do they go deep or stay surface-level?
+  - **User Experience**: Readability, formatting, navigation
 
 **Output**:
 ```
-KEYWORD DATA:
+═══════════════════════════════════════════════════════
+PART A: KEYWORD & SEO DATA
+═══════════════════════════════════════════════════════
+
+KEYWORD METRICS:
 - Primary Keyword: {PRIMARY_KEYWORD}
-- KD: [Score] - [Easy/Medium/Hard interpretation]
+- KD: [Score] - [Easy/Medium/Hard] - [What this means for us]
 - Global SV: [Volume]
 - {TARGET_COUNTRY} SV: [Volume]
 - Position 1 SV: [Volume] - [% of total]
-- CPC: $[Amount] - [Commercial intent: High/Med/Low]
-- Traffic Potential: [Estimate]
-- Parent Topic: [If different from primary]
+- CPC: $[Amount] - Commercial intent: [High/Med/Low]
+- Traffic Potential: [Estimate] - [2-3x higher means topic cluster opportunity]
+- Parent Topic: [If different from primary keyword]
 
-RELATED KEYWORDS (Top 5):
-1. [Keyword] - SV: [X] - KD: [Y]
-2. [Keyword] - SV: [X] - KD: [Y]
+RELATED KEYWORDS (Top 5-10):
+1. [Keyword] - SV: [X] - KD: [Y] - [What this reveals about user needs]
+2. [Keyword] - SV: [X] - KD: [Y] - [What this reveals about user needs]
+3. [Keyword] - SV: [X] - KD: [Y] - [What this reveals about user needs]
 ...
 
 KEY OBSERVATIONS:
-- [Insight about search demand]
-- [Insight about competition]
-- [Insight about content opportunity]
-```
+- Search demand insight: [What volume/trends tell us]
+- Competition insight: [What KD tells us about difficulty]
+- Content opportunity: [Parent topic, traffic potential insights]
+- Keyword clustering: [Related keywords suggest we should also cover...]
 
-**✋ CHECKPOINT**: Review data insights before competitive analysis
+═══════════════════════════════════════════════════════
+PART B: TOP 3 AHREFS COMPETITORS - WHAT THEY DO WELL & POORLY
+═══════════════════════════════════════════════════════
+
+**COMPETITOR #1**: [URL]
+Position: [Ranking #]
+Domain Authority: DR [X] | UR [Y]
+Traffic: ~[X] visits/month | Keywords: [X]
+Freshness: Published [Date] | Updated [Date]
+
+WHAT THEY DO WELL (Strengths to Learn From):
+✅ [Specific strength 1]
+   - Why it works: [First-principles reasoning]
+   - Evidence: [How we know this is effective]
+   - Learn: [What principle we should adopt]
+
+✅ [Specific strength 2]
+   - Why it works: [First-principles reasoning]
+   - Evidence: [How we know this is effective]
+   - Learn: [What principle we should adopt]
+
+✅ [Specific strength 3]
+   - Why it works: [First-principles reasoning]
+
+WHAT THEY DO POORLY (Gaps to Exploit):
+❌ [Specific weakness 1]
+   - Why it's a problem: [How this fails to solve user problem fully]
+   - Opportunity: [How we can do this better]
+
+❌ [Specific weakness 2]
+   - Why it's a problem: [How this fails to solve user problem fully]
+   - Opportunity: [How we can do this better]
+
+❌ [Specific weakness 3]
+   - Why it's a problem: [How this fails to solve user problem fully]
+   - Opportunity: [How we can do this better]
+
+CONTENT DETAILS:
+- Structure: [Title approach, H2 organization, word count: ~X]
+- Solution depth: [Surface-level / Medium / Deep] - [Why?]
+- Visual content: [What they include]
+- User experience: [Readability, formatting quality]
 
 ---
 
-### STEP 4: WEB SEARCH - TOP 5 COMPETITOR ANALYSIS
-**Objective**: Analyze currently ranking content to identify strengths and gaps
+**COMPETITOR #2**: [URL]
+Position: [Ranking #]
+Domain Authority: DR [X] | UR [Y]
+Traffic: ~[X] visits/month | Keywords: [X]
+Freshness: Published [Date] | Updated [Date]
+
+WHAT THEY DO WELL:
+✅ [Specific strength 1] - Why it works: [Reasoning]
+✅ [Specific strength 2] - Why it works: [Reasoning]
+✅ [Specific strength 3] - Why it works: [Reasoning]
+
+WHAT THEY DO POORLY:
+❌ [Specific weakness 1] - Opportunity: [How we do better]
+❌ [Specific weakness 2] - Opportunity: [How we do better]
+❌ [Specific weakness 3] - Opportunity: [How we do better]
+
+CONTENT DETAILS:
+- Structure: [Details]
+- Solution depth: [Assessment]
+- Visual content: [What they include]
+- User experience: [Assessment]
+
+---
+
+**COMPETITOR #3**: [URL]
+Position: [Ranking #]
+Domain Authority: DR [X] | UR [Y]
+Traffic: ~[X] visits/month | Keywords: [X]
+Freshness: Published [Date] | Updated [Date]
+
+WHAT THEY DO WELL:
+✅ [Specific strength 1] - Why it works: [Reasoning]
+✅ [Specific strength 2] - Why it works: [Reasoning]
+✅ [Specific strength 3] - Why it works: [Reasoning]
+
+WHAT THEY DO POORLY:
+❌ [Specific weakness 1] - Opportunity: [How we do better]
+❌ [Specific weakness 2] - Opportunity: [How we do better]
+❌ [Specific weakness 3] - Opportunity: [How we do better]
+
+CONTENT DETAILS:
+- Structure: [Details]
+- Solution depth: [Assessment]
+- Visual content: [What they include]
+- User experience: [Assessment]
+
+═══════════════════════════════════════════════════════
+PART C: SYNTHESIZED INSIGHTS (Across All 3)
+═══════════════════════════════════════════════════════
+
+COMMON STRENGTHS (What's Working Across Top 3):
+- Pattern 1: [What they all do well]
+  → Why this works: [First-principles reasoning]
+  → We must do this too: [How we'll adopt this principle]
+
+- Pattern 2: [Another common strength]
+  → Why this works: [First-principles reasoning]
+  → We must do this too: [How we'll adopt this principle]
+
+COMMON WEAKNESSES (Universal Gaps = Big Opportunities):
+- Gap 1: [What ALL three miss or do poorly]
+  → Why this is a problem: [How it fails users]
+  → Our opportunity: [How we'll exploit this gap]
+
+- Gap 2: [Another universal weakness]
+  → Why this is a problem: [How it fails users]
+  → Our opportunity: [How we'll exploit this gap]
+
+COMPETITIVE LANDSCAPE:
+- Average DR: [X] - [Are we competing on authority or content quality?]
+- Average traffic: [X] - [Traffic potential for us]
+- Content depth standard: [Assessment] - [Our target depth]
+- Freshness importance: [High/Med/Low] - [Update strategy needed?]
+
+HOW WE'LL GO 2-3 LAYERS DEEPER:
+Current best practice: [What top 3 do]
+↓
+Underlying principle: [Why it works]
+↓
+Our deeper approach: [How we apply principle more completely]
+↓
+Specific implementation: [What this looks like in our content]
+
+FIRST-PRINCIPLES THINKING:
+- What would "perfect problem-solving" look like for this keyword?
+  Answer: [Describe ideal solution]
+
+- How can we get closer to that ideal than competitors?
+  Answer: [Specific approaches we'll take]
+
+- Validation: Does this stay focused on primary keyword/problem?
+  Answer: [Yes/No + reasoning]
+```
+
+**✋ CHECKPOINT**: Review Ahrefs competitive analysis before Web Search analysis
+
+---
+
+### STEP 4: WEB SEARCH COMPETITIVE ANALYSIS (Top 5)
+**Objective**: Analyze what top 5 web search competitors do WELL and POORLY in solving the validated problem
+
+**🎯 CONTEXT TO BRING FORWARD:**
+- Primary keyword: {PRIMARY_KEYWORD}
+- Validated problem understanding: [From Step 2.5]
+- Ahrefs insights: [Key findings from Step 3]
+- Goal: Understand how to solve this problem BETTER than current top-ranking content
 
 **Actions**:
 - [ ] Use WebSearch tool to find top 5 ranking articles for {PRIMARY_KEYWORD} in {TARGET_COUNTRY}
-- [ ] For each competitor, analyze:
+- [ ] For each competitor, use WebSearch tool to read and analyze content:
 
-**Content Structure:**
-  - Title and meta approach
-  - Content outline (H2s, H3s)
-  - Word count and depth
-  - Writing style and tone
+**🎯 THINK HARDER - Solution Analysis:**
+- "HOW are they solving the validated problem?" (Their approach)
+- "WHY does this solution work?" (First-principles - what makes it effective?)
+- "What do they do WELL that we should learn from?" (Strengths to adopt)
+- "What do they do POORLY or miss?" (Gaps we can exploit)
+- "How can we apply their successful principles MORE deeply?" (Go 2-3 layers deeper)
 
-**Value Delivery:**
-  - Key points covered
-  - Unique insights or data
-  - Examples and case studies
-  - Actionability and practicality
+- [ ] Analyze each competitor's:
+  - **Content Structure**: Title, H2s, H3s, organization, word count
+  - **Solution Approach**: How they address the validated problem
+  - **Value Delivery**: Key points, unique insights, examples, actionability
+  - **Visual Elements**: Charts, images, infographics, tables, videos
+  - **Authority Signals**: Author credentials, expert quotes, citations
+  - **User Experience**: Readability, formatting, navigation, CTAs
+  - **Depth vs Breadth**: Do they go deep or stay surface-level?
 
-**Visual Elements:**
-  - Charts and graphs
-  - Images and screenshots
-  - Infographics
-  - Comparison tables
-  - Video content
-
-**Authority Signals:**
-  - Author credentials
-  - Expert quotes/contributions
-  - Citations and references
-  - Brand authority
-
-**User Experience:**
-  - Readability and formatting
-  - Internal linking
-  - CTAs and conversion elements
-  - Mobile optimization (if visible)
-  - Page speed (if noticeable)
-
-**Output for Each Competitor**:
+**Output**:
 ```
-COMPETITOR #[1-5]: [URL]
-Position: [Ranking]
+═══════════════════════════════════════════════════════
+TOP 5 WEB SEARCH COMPETITORS - WHAT THEY DO WELL & POORLY
+═══════════════════════════════════════════════════════
+
+**COMPETITOR #1**: [URL]
+Position: [Ranking #]
 Title: [Page title]
 Word Count: ~[Estimate]
 
-STRUCTURE OUTLINE:
-- [H2 section 1]
-  - [H3 if applicable]
-- [H2 section 2]
-...
+WHAT THEY DO WELL (Strengths to Learn From):
+✅ [Specific strength 1]
+   - Why it works: [First-principles reasoning]
+   - Evidence: [How we know this is effective]
+   - Learn: [What principle we should adopt]
 
-STRENGTHS TO ADOPT:
-✅ [What they do well - be specific]
-✅ [Another strength]
-✅ [Another strength]
+✅ [Specific strength 2]
+   - Why it works: [First-principles reasoning]
+   - Evidence: [How we know this is effective]
+   - Learn: [What principle we should adopt]
 
-GAPS & WEAKNESSES TO EXPLOIT:
-❌ [What they're missing - be specific]
-❌ [Another gap]
-❌ [Another gap]
+✅ [Specific strength 3]
+   - Why it works: [First-principles reasoning]
 
-VISUAL CONTENT:
-- [Types of visuals used]
-- [Quality assessment]
+WHAT THEY DO POORLY (Gaps to Exploit):
+❌ [Specific weakness 1]
+   - Why it's a problem: [How this fails to solve user problem fully]
+   - Opportunity: [How we can do this better]
 
-UNIQUE ELEMENTS:
-- [Anything special/different]
-```
+❌ [Specific weakness 2]
+   - Why it's a problem: [How this fails to solve user problem fully]
+   - Opportunity: [How we can do this better]
 
-**Synthesis - Top 5 Web Search Competitors**:
-```
-COMMON STRENGTHS (patterns across top content):
-- [Pattern 1]
-- [Pattern 2]
-...
+❌ [Specific weakness 3]
+   - Why it's a problem: [How this fails to solve user problem fully]
+   - Opportunity: [How we can do this better]
 
-COMMON GAPS (opportunities):
-- [Opportunity 1]
-- [Opportunity 2]
-...
-
-CONTENT LENGTH BENCHMARK: [Range]
-VISUAL CONTENT BENCHMARK: [Standard]
-```
-
-**✋ CHECKPOINT**: Review competitor analysis findings
+CONTENT DETAILS:
+- Structure: [H2 outline - brief]
+- Solution depth: [Surface-level / Medium / Deep] - [Why?]
+- Visual content: [What they include]
+- Authority signals: [Author, experts, citations]
+- User experience: [Readability, formatting quality]
 
 ---
 
-### STEP 5: AHREFS MCP - TOP 5 COMPETITOR ANALYSIS
-**Objective**: Deep dive into competitive metrics and performance data
+**COMPETITOR #2**: [URL]
+Position: [Ranking #]
+Title: [Page title]
+Word Count: ~[Estimate]
 
-**Actions**:
-- [ ] Use Ahrefs MCP to find top 5 ranking pages for {PRIMARY_KEYWORD} in {TARGET_COUNTRY}
-- [ ] For each competitor page, collect:
+WHAT THEY DO WELL:
+✅ [Specific strength 1] - Why it works: [Reasoning]
+✅ [Specific strength 2] - Why it works: [Reasoning]
+✅ [Specific strength 3] - Why it works: [Reasoning]
 
-**SEO Metrics:**
-  - URL and current position
-  - Domain Rating (DR)
-  - URL Rating (UR)
-  - Referring domains count
-  - Backlinks count
-  - Organic traffic estimate
-  - Organic keywords count
+WHAT THEY DO POORLY:
+❌ [Specific weakness 1] - Opportunity: [How we do better]
+❌ [Specific weakness 2] - Opportunity: [How we do better]
+❌ [Specific weakness 3] - Opportunity: [How we do better]
 
-**Performance Data:**
-  - Top 5 keywords this page ranks for
-  - Traffic distribution (% from primary vs other keywords)
-  - Content freshness (publish/update dates)
-  - Historical ranking data (if available)
-
-**Backlink Profile:**
-  - Quality of referring domains
-  - Link acquisition patterns
-  - Anchor text distribution
-
-**Output for Each Competitor**:
-```
-COMPETITOR #[1-5] - AHREFS DATA
-URL: [URL]
-Position: [Ranking for primary keyword]
-
-SEO METRICS:
-- DR: [Score]
-- UR: [Score]
-- Referring Domains: [Count]
-- Backlinks: [Count]
-- Organic Traffic: ~[Estimate] visits/month
-- Organic Keywords: [Count]
-
-TOP KEYWORDS FOR THIS PAGE:
-1. [Keyword] - Position [X] - SV: [Y]
-2. [Keyword] - Position [X] - SV: [Y]
-3. [Keyword] - Position [X] - SV: [Y]
-4. [Keyword] - Position [X] - SV: [Y]
-5. [Keyword] - Position [X] - SV: [Y]
-
-CONTENT FRESHNESS:
-- Published: [Date]
-- Last Updated: [Date]
-
-BACKLINK INSIGHTS:
-- Link velocity: [Pattern]
-- Quality score: [Assessment]
-- Link building strategy: [Observations]
-```
-
-**Synthesis - Top 5 Ahrefs Competitors**:
-```
-COMPETITIVE LANDSCAPE:
-- Average DR of top 5: [Score]
-- Average UR of top 5: [Score]
-- Average backlinks needed: ~[Estimate]
-- Content freshness importance: [High/Med/Low]
-
-RANKING FACTOR INSIGHTS:
-- Authority requirement: [Assessment]
-- Content depth requirement: [Assessment]
-- Link building requirement: [Assessment]
-- Keyword optimization requirement: [Assessment]
-
-OPPORTUNITIES:
-- [Gap we can exploit]
-- [Advantage we can leverage]
-- [Strategy to outrank]
-```
-
-**✋ CHECKPOINT**: Review comprehensive competitive data
+CONTENT DETAILS:
+- Structure: [Details]
+- Solution depth: [Assessment]
+- Visual content: [What they include]
+- Authority signals: [Assessment]
+- User experience: [Assessment]
 
 ---
 
-### STEP 5.5: CONTENT FORMAT & TYPE STRATEGY
-**Objective**: Determine the optimal content format and type based on competitive analysis and search intent
+**COMPETITOR #3**: [URL]
+Position: [Ranking #]
+Title: [Page title]
+Word Count: ~[Estimate]
+
+WHAT THEY DO WELL:
+✅ [Specific strength 1] - Why it works: [Reasoning]
+✅ [Specific strength 2] - Why it works: [Reasoning]
+✅ [Specific strength 3] - Why it works: [Reasoning]
+
+WHAT THEY DO POORLY:
+❌ [Specific weakness 1] - Opportunity: [How we do better]
+❌ [Specific weakness 2] - Opportunity: [How we do better]
+❌ [Specific weakness 3] - Opportunity: [How we do better]
+
+CONTENT DETAILS:
+- Structure: [Details]
+- Solution depth: [Assessment]
+- Visual content: [What they include]
+- Authority signals: [Assessment]
+- User experience: [Assessment]
+
+---
+
+**COMPETITOR #4**: [URL]
+Position: [Ranking #]
+Title: [Page title]
+Word Count: ~[Estimate]
+
+WHAT THEY DO WELL:
+✅ [Specific strength 1] - Why it works: [Reasoning]
+✅ [Specific strength 2] - Why it works: [Reasoning]
+✅ [Specific strength 3] - Why it works: [Reasoning]
+
+WHAT THEY DO POORLY:
+❌ [Specific weakness 1] - Opportunity: [How we do better]
+❌ [Specific weakness 2] - Opportunity: [How we do better]
+❌ [Specific weakness 3] - Opportunity: [How we do better]
+
+CONTENT DETAILS:
+- Structure: [Details]
+- Solution depth: [Assessment]
+- Visual content: [What they include]
+- Authority signals: [Assessment]
+- User experience: [Assessment]
+
+---
+
+**COMPETITOR #5**: [URL]
+Position: [Ranking #]
+Title: [Page title]
+Word Count: ~[Estimate]
+
+WHAT THEY DO WELL:
+✅ [Specific strength 1] - Why it works: [Reasoning]
+✅ [Specific strength 2] - Why it works: [Reasoning]
+✅ [Specific strength 3] - Why it works: [Reasoning]
+
+WHAT THEY DO POORLY:
+❌ [Specific weakness 1] - Opportunity: [How we do better]
+❌ [Specific weakness 2] - Opportunity: [How we do better]
+❌ [Specific weakness 3] - Opportunity: [How we do better]
+
+CONTENT DETAILS:
+- Structure: [Details]
+- Solution depth: [Assessment]
+- Visual content: [What they include]
+- Authority signals: [Assessment]
+- User experience: [Assessment]
+
+═══════════════════════════════════════════════════════
+SYNTHESIZED INSIGHTS (Across All 5)
+═══════════════════════════════════════════════════════
+
+COMMON STRENGTHS (What's Working Across Top 5):
+- Pattern 1: [What they all do well]
+  → Why this works: [First-principles reasoning]
+  → We must do this too: [How we'll adopt this principle]
+
+- Pattern 2: [Another common strength]
+  → Why this works: [First-principles reasoning]
+  → We must do this too: [How we'll adopt this principle]
+
+COMMON WEAKNESSES (Universal Gaps = Big Opportunities):
+- Gap 1: [What ALL or MOST miss or do poorly]
+  → Why this is a problem: [How it fails users]
+  → Our opportunity: [How we'll exploit this gap]
+
+- Gap 2: [Another universal weakness]
+  → Why this is a problem: [How it fails users]
+  → Our opportunity: [How we'll exploit this gap]
+
+CONTENT BENCHMARKS:
+- Word count range: [Min - Max] - [Our target]
+- Visual content standard: [What's typical] - [Our target]
+- Depth level: [Typical depth] - [Our target depth]
+- Authority level: [Typical authority signals] - [Our target]
+
+HOW WE'LL GO 2-3 LAYERS DEEPER:
+Current best practice: [What top 5 do]
+↓
+Underlying principle: [Why it works]
+↓
+Our deeper approach: [How we apply principle more completely]
+↓
+Specific implementation: [What this looks like in our content]
+
+FIRST-PRINCIPLES THINKING:
+- What would "perfect problem-solving" look like for this keyword?
+  Answer: [Describe ideal solution]
+
+- How can we get closer to that ideal than competitors?
+  Answer: [Specific approaches we'll take]
+
+- Validation: Does this stay focused on primary keyword/problem?
+  Answer: [Yes/No + reasoning]
+```
+
+**✋ CHECKPOINT**: Review Web Search competitive analysis
+
+---
+
+### STEP 5: CONTENT FORMAT & TYPE STRATEGY
+**Objective**: Determine the optimal content format that best solves the validated problem
+
+**🎯 CONTEXT TO BRING FORWARD:**
+- Primary keyword: {PRIMARY_KEYWORD}
+- Validated problem understanding: [From Step 2.5]
+- Competitive insights: [From Steps 3 & 4]
+- Goal: Choose format that enables us to solve the problem 2-3 layers deeper than competitors
+
+**🎯 THINK HARDER - Format as Problem-Solving Tool:**
+- "What format best serves the VALIDATED PROBLEM?" (Not just what's ranking)
+- "How does format choice help us go 2-3 layers deeper?" (Enable better solutions)
+- "What format allows us to apply successful principles MORE completely?" (From competitive analysis)
+- "What format constraints keep us FOCUSED?" (Depth over breadth, no scope creep)
 
 **Actions**:
-- [ ] Analyze competitor content formats across Steps 4 & 5 data:
-  - What content formats are currently ranking? (blog posts, listicles, guides, interactive tools, comparisons, videos, etc.)
+
+**Part A: Analyze Competitor Formats**
+- [ ] Review competitor content formats from Steps 3 & 4:
+  - What formats are currently ranking? (blog posts, listicles, guides, tools, comparisons, etc.)
   - Are there interactive elements? (calculators, quizzes, configurators, assessments)
-  - What's the dominant format pattern across top 5?
+  - What's the dominant format pattern?
   - Note any outliers (different format that's still ranking well)
 
-- [ ] Validate search intent against content format:
-  - **Informational** → Typically: Educational blog post, how-to guide, explainer, ultimate guide, FAQ
-  - **Transactional** → Typically: Product/service pages, pricing pages, "best X for Y", buying guides
-  - **Commercial Investigation** → Typically: Comparison articles, reviews, "X vs Y", alternative pages, roundups
-  - **Navigational** → Typically: Brand/product specific pages, landing pages
+**Part B: Map Format to Problem-Solving**
+- [ ] For the validated problem from Step 2.5, consider:
+  - What format best serves Layer 1 (Surface problem)?
+  - What format best serves Layer 2 (Deeper motivation)?
+  - What format best serves Layer 3 (Underlying need)?
+  - What format best serves Layer 4 (Desired outcome)?
 
-- [ ] Identify content format opportunities (what could work BETTER than competitors):
-  - **Listicle**: Would numbered list format make it more scannable and shareable?
-  - **Interactive tool/calculator**: Could a functional tool provide unique value and engagement?
-  - **Comparison format**: Would side-by-side comparison make decision-making easier?
-  - **Data-driven study**: Would original research/data make it more authoritative?
-  - **Step-by-step guide**: Would sequential how-to format be more actionable?
-  - **Ultimate guide**: Would comprehensive, all-in-one resource be more valuable?
-  - **Hub-and-spoke**: Would pillar page + supporting content work better?
-  - **Mixed format**: Could combination approach (e.g., guide + embedded tool + comparison table) be optimal?
-  - **Micro-app**: Would an on-page application (quiz, configurator, generator) provide unique value?
+**Part C: Format Opportunities**
+**Think harder:** Don't just copy competitors - think about what format enables BETTER problem-solving.
 
-- [ ] Consider content format based on user journey stage:
-  - **Awareness stage** → Educational, broad coverage, beginner-friendly
-  - **Consideration stage** → Comparison, evaluation criteria, pros/cons
-  - **Decision stage** → Specific recommendations, clear CTAs, decision support tools
+- [ ] Evaluate format options:
+  - **Listicle**: Would numbered format make solution more scannable and actionable?
+  - **Interactive tool**: Could a functional tool solve the problem hands-on?
+  - **Comparison format**: Does the problem require decision-making between options?
+  - **Data-driven study**: Would original data make the solution more authoritative?
+  - **Step-by-step guide**: Is the solution sequential and needs clear progression?
+  - **Ultimate guide**: Does comprehensive coverage serve the problem best?
+  - **Mixed format**: Would combining formats solve the problem more completely?
+
+- [ ] Validate search intent alignment:
+  - **Informational** → Educational blog post, how-to guide, explainer, ultimate guide
+  - **Transactional** → Product pages, pricing pages, "best X for Y", buying guides
+  - **Commercial Investigation** → Comparison articles, reviews, "X vs Y", roundups
+  - **Navigational** → Brand/product specific pages, landing pages
+
+- [ ] Consider user journey stage:
+  - **Awareness** → Educational, broad coverage, beginner-friendly
+  - **Consideration** → Comparison, evaluation criteria, pros/cons
+  - **Decision** → Specific recommendations, clear CTAs, decision support tools
 
 **Output**:
 ```
@@ -395,6 +751,30 @@ SEARCH INTENT VALIDATION:
 - User Expectation: [e.g., "Comprehensive explanation + practical tools to implement"]
 - Journey Stage: [Awareness / Consideration / Decision]
 
+═══════════════════════════════════════════════════════
+PROBLEM-DRIVEN FORMAT DECISION
+═══════════════════════════════════════════════════════
+
+FORMAT vs PROBLEM LAYER MAPPING:
+
+Layer 1 (Surface problem): [Restatevalidated problem layer 1]
+→ Format solution: [What format best addresses this layer]
+→ Why: [First-principles reasoning]
+
+Layer 2 (Deeper motivation): [Restate validated problem layer 2]
+→ Format solution: [What format best addresses this layer]
+→ Why: [First-principles reasoning]
+
+Layer 3 (Underlying need): [Restate validated problem layer 3]
+→ Format solution: [What format best addresses this layer]
+→ Why: [First-principles reasoning]
+
+Layer 4 (Desired outcome): [Restate validated problem layer 4]
+→ Format solution: [What format best addresses this layer]
+→ Why: [First-principles reasoning]
+
+═══════════════════════════════════════════════════════
+
 CONTENT FORMAT OPPORTUNITY ANALYSIS:
 
 Gap Analysis:
@@ -402,10 +782,12 @@ Gap Analysis:
 - What format could be improved: [e.g., "Listicles lack depth and actionability"]
 - What format is oversaturated: [e.g., "Generic long-form guides are everywhere"]
 
-User Need vs Current Format:
-- What users need: [e.g., "Quick comparison + deep dive option + hands-on tool"]
-- What's currently offered: [e.g., "Only static text-based guides"]
-- The gap: [e.g., "No interactive, personalized experience"]
+Problem-Solving Gap:
+- Current formats solve: [What problem layers competitors address]
+- Current formats miss: [What problem layers they fail to address]
+- Format opportunity: [What format would solve ALL layers better]
+
+═══════════════════════════════════════════════════════
 
 RECOMMENDED CONTENT TYPE & FORMAT:
 
@@ -445,6 +827,12 @@ Why this format beats competitors:
 - [e.g., "Provides personalized value through interactive elements"]
 - [e.g., "More engaging and memorable than static text"]
 
+How it better solves the validated problem:
+- Layer 1 solution: [How format addresses surface problem better]
+- Layer 2 solution: [How format addresses deeper motivation better]
+- Layer 3 solution: [How format addresses underlying need better]
+- Layer 4 solution: [How format delivers desired outcome better]
+
 How it better serves search intent:
 - [e.g., "Informational intent: Comprehensive education ✓"]
 - [e.g., "Commercial intent: Comparison and decision support ✓"]
@@ -454,6 +842,11 @@ What unique value it adds:
 - [e.g., "Only resource with ROI calculator for this topic"]
 - [e.g., "Personalized recommendations based on user inputs"]
 - [e.g., "Actionable with real-time implementation support"]
+
+STAYING FOCUSED (Depth over Breadth):
+- Scope boundary: [What we WON'T include - stays on primary keyword]
+- Depth strategy: [How we go 2-3 layers deeper, not wider]
+- Focus validation: [Confirm this doesn't expand beyond validated problem]
 
 FORMAT SPECIFICATIONS FOR CONTENT BRIEF:
 
@@ -488,12 +881,20 @@ FORMAT SPECIFICATIONS FOR CONTENT BRIEF:
 ### STEP 6: SYNTHESIS & COMPREHENSIVE CONTENT BRIEF
 **Objective**: Create detailed, actionable content brief that beats all competitors
 
+**🎯 CONTEXT TO BRING FORWARD:**
+- Primary keyword: {PRIMARY_KEYWORD}
+- Validated problem understanding: [From Step 2.5]
+- Competitive insights: [From Steps 3 & 4]
+- Format strategy: [From Step 5]
+- Goal: Create brief that enables content to solve the problem BETTER than all competitors
+
 **Actions**:
 - [ ] Synthesize all research into unified strategy
-- [ ] Create comprehensive outline with specific guidance
-- [ ] Define visual content requirements
-- [ ] Specify unique data/research needs
-- [ ] Detail authority building elements
+- [ ] Create strategic synthesis showing how we'll beat competitors
+- [ ] Define comprehensive outline with specific guidance
+- [ ] Specify visual content requirements
+- [ ] Detail unique data/research needs
+- [ ] Define authority building elements
 
 **Output - COMPREHENSIVE CONTENT BRIEF**:
 
@@ -501,23 +902,124 @@ FORMAT SPECIFICATIONS FOR CONTENT BRIEF:
 
 ## 📄 CONTENT BRIEF: {PRIMARY_KEYWORD}
 
-### A. STRATEGIC OVERVIEW
+### A. STRATEGIC SYNTHESIS: HOW WE BEAT ALL COMPETITORS
 
-**Target Keyword**: {PRIMARY_KEYWORD}
-**Secondary Keywords**: [List 5-10 from research]
-**Content Type**: {CONTENT_TYPE}
+**🎯 This section is the MOST IMPORTANT - it synthesizes everything and shows how we'll win.**
 
-**Search Intent & Audience Problem**:
-- Surface intent: [Layer 1]
-- Deep motivation: [Layer 2]
-- Core need: [Layer 3]
-- Success outcome: [Layer 4]
+---
 
-**Content Objective**:
-[Clear statement of what this content will achieve]
+#### 1. VALIDATED PROBLEM UNDERSTANDING
 
-**Unique Value Proposition vs Competitors**:
-[How this content will be different and better]
+**Refined 4-Layer Problem** (From Steps 2 & 2.5):
+
+- **Layer 1 (Surface)**: [Validated surface problem]
+  - Evidence: [What top-ranking content confirms]
+
+- **Layer 2 (Deeper Motivation)**: [Validated deeper motivation]
+  - Evidence: [What competitive analysis revealed]
+
+- **Layer 3 (Underlying Need)**: [Validated underlying need]
+  - Evidence: [First-principles insight]
+
+- **Layer 4 (Desired Outcome)**: [Validated desired outcome]
+  - Evidence: [What success looks like - specific]
+
+---
+
+#### 2. COMPETITIVE SOLUTION ANALYSIS
+
+**What Top Competitors Do Well** (From Steps 3 & 4):
+
+Synthesized insights across top 8 competitors (3 Ahrefs + 5 Web):
+
+✅ **Strength Pattern 1**: [Common approach that works]
+- Why it works: [First-principles reasoning]
+- Who does it: [Competitor URLs]
+- We must adopt: [How we'll implement this principle]
+
+✅ **Strength Pattern 2**: [Another common success pattern]
+- Why it works: [First-principles reasoning]
+- Who does it: [Competitor URLs]
+- We must adopt: [How we'll implement this principle]
+
+✅ **Strength Pattern 3**: [Third pattern]
+- Why it works: [First-principles reasoning]
+- Who does it: [Competitor URLs]
+- We must adopt: [How we'll implement this principle]
+
+❌ **Common Weakness 1**: [Universal gap across competitors]
+- Why it's a problem: [How this fails users]
+- Our opportunity: [How we'll exploit this]
+
+❌ **Common Weakness 2**: [Another universal gap]
+- Why it's a problem: [How this fails users]
+- Our opportunity: [How we'll exploit this]
+
+---
+
+#### 3. OUR SUPERIOR SOLUTION (First-Principles Approach)
+
+**How We'll Go 2-3 Layers Deeper:**
+
+Current best practice: [What competitors do]
+↓
+Underlying principle: [Why it works fundamentally]
+↓
+Our deeper approach: [How we apply this principle more completely]
+↓
+Specific implementation: [What this looks like in our content]
+↓
+Expected outcome: [Why users will prefer our solution]
+
+**Staying Focused** (Depth over Breadth):
+- Scope boundary: [What we WON'T cover - stay on primary keyword]
+- How we go deeper: [Specific ways we add 2-3 more layers]
+- Focus validation: ✓ This stays within validated problem scope
+
+---
+
+#### 4. CONTENT FORMAT DECISION
+
+**Chosen Format**: [Format from Step 5]
+
+**Why This Format Wins:**
+- Solves Layer 1 by: [How format addresses surface problem]
+- Solves Layer 2 by: [How format addresses deeper motivation]
+- Solves Layer 3 by: [How format addresses underlying need]
+- Delivers Layer 4 by: [How format achieves desired outcome]
+
+**Format Enables Us To:**
+- [Specific advantage 1 over competitors]
+- [Specific advantage 2 over competitors]
+- [Specific advantage 3 over competitors]
+
+---
+
+#### 5. COMPETITORS ANALYZED
+
+**Ahrefs Top 3:**
+1. [URL] - DR: [X] - Traffic: [Y] - Key insight: [What we learned]
+2. [URL] - DR: [X] - Traffic: [Y] - Key insight: [What we learned]
+3. [URL] - DR: [X] - Traffic: [Y] - Key insight: [What we learned]
+
+**Web Search Top 5:**
+1. [URL] - Key insight: [What we learned]
+2. [URL] - Key insight: [What we learned]
+3. [URL] - Key insight: [What we learned]
+4. [URL] - Key insight: [What we learned]
+5. [URL] - Key insight: [What we learned]
+
+---
+
+#### 6. SUCCESS CRITERIA
+
+**We'll know we've succeeded when our content:**
+- [ ] Solves Layer 1 (Surface) better by: [Specific measurable outcome]
+- [ ] Solves Layer 2 (Deeper) better by: [Specific measurable outcome]
+- [ ] Solves Layer 3 (Underlying) better by: [Specific measurable outcome]
+- [ ] Delivers Layer 4 (Outcome) better by: [Specific measurable outcome]
+- [ ] Goes 2-3 layers deeper than competitors on: [Specific aspects]
+- [ ] Ranks in top 3 for primary keyword within [timeframe]
 
 ---
 
